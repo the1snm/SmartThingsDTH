@@ -13,7 +13,6 @@
 
 definition(
     name: "Ridiculously Automated Garage Door for GD00Z",
-    namespace: "the1snm",
     author: "Stephen McDonnell",
     description: "Monitors arrival and departure of car(s) and 1) opens door when car arrives, 2) closes door after car has departed (for N minutes), 3) opens door when car door motion is detected, 4) closes door when door was opened due to arrival and interior door is closed.",
     category: "SmartThings Labs",
